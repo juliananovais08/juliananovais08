@@ -1,7 +1,7 @@
  Hi there 👋
 
-- 🔭 I’m currently working on .NET and Angular projects
-- 🌱 Learning Javascript, Node.JS and Azure
+- 🔭 I’m currently working on C# and Python projects
+- 🌱 Learning Cloud
 - 😄 Pronouns: she/her/hers
 
 <div align="rigth">
