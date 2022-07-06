@@ -1,7 +1,7 @@
  Hi there 👋
 
 - 🔭 I’m currently working on C# and Python projects
-- 🌱 Learning Cloud
+- 🌱 Learning Cloud and Devops
 - 😄 Pronouns: she/her/hers
 
 <div align="rigth">
